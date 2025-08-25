@@ -25,6 +25,10 @@
 
 객체 탐지 및 추적 데이터를 프롬프트로 이용하고 현재 프레임과 바로 이전 프레임을 영상으로 정의한 뒤에 VLM에 INPUT으로 넣는 방식으로 장면에 대한 동적 관계를 추출했습니다.
 프롬프트는 역할 부여, FEW-SHOT PROMPTING, 객체 및 관계 제한 등을 프롬프트로 구성하여 관계를 추출했습니다.
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4ed6c592-fbe1-41d7-80f8-bac2563273a1" />
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/428f0efc-b640-465b-b3cd-a1676a5e481c" />
+
+3. 발전방향
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/188e4372-9621-499f-8464-32b386edcd54" />
 
 
